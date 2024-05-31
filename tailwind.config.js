@@ -18,9 +18,12 @@ module.exports = {
         palanquin: ["Palanquin", "sans-serif"],
         montserrat: ["Montserrat", "sans-serif"],
       },
-    },
-    screens: {
-      wide: "1440px",
+      colors: {
+        "pale-blue": "#F5F6FF",
+      },
+      screens: {
+        wide: "1440px",
+      },
     },
   },
   plugins: [],
