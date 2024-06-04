@@ -23,6 +23,10 @@ module.exports = {
         "coral-red": "#FF6452",
         "slate-gray": "#6D6D6D",
       },
+      backgroundImage: {
+        hero: "url('assets/images/collection-background.svg')",
+        card: "url('assets/images/thumbnail-background.svg')",
+      },
       screens: {
         wide: "1440px",
       },
