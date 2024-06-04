@@ -20,6 +20,8 @@ module.exports = {
       },
       colors: {
         "pale-blue": "#F5F6FF",
+        "coral-red": "#FF6452",
+        "slate-gray": "#6D6D6D",
       },
       screens: {
         wide: "1440px",
