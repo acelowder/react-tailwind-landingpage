@@ -17,6 +17,9 @@ import shoe8 from './shoe8.svg'
 
 import offer from './offer.svg'
 
+import customer1 from './customer1.jpeg'
+import customer2 from './customer2.svg'
+
 export {
   bigShoe1,
   bigShoe2,
@@ -32,4 +35,6 @@ export {
   shoe7,
   shoe8,
   offer,
+  customer1,
+  customer2,
 };
