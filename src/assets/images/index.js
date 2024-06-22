@@ -20,6 +20,8 @@ import offer from './offer.svg'
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
 
+import footerLogo from './footer-logo.svg'
+
 export {
   bigShoe1,
   bigShoe2,
@@ -37,4 +39,5 @@ export {
   offer,
   customer1,
   customer2,
+  footerLogo,
 };
