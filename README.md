@@ -8,10 +8,10 @@ You can view the deployed build at <a href="https://acelowder-nike.netlify.app/"
 
 &nbsp;
 
-<a href="https://acelowder-nike.netlify.app/"><img src="example.gif" width="1280"></a>
+<a href="https://acelowder-nike.netlify.app/"><img src="fold.png" width="1280"></a>
 <div align="right">
   
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7ea9379c-5c29-4b50-8813-c2fef66699ae/deploy-status)](https://acelowder-nike.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e84f4090-113b-489c-83f1-cd81a1a4cef3/deploy-status)](https://acelowder-nike.netlify.app/)
 </div>
 
 ## Future Plans
